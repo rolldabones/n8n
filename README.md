@@ -4,6 +4,8 @@
 
 Source: https://youtu.be/Ey18PDiaAYI?si=EoERqt5vlc7hDCVP
 
+Summary: https://app.mindstudio.ai/share/public/asset/3DDjeJppHlYjyXD74YhSFL
+
 I’m new to n8n, exploring it alongside tools like MindStudio. Always good to have options.
 
 Also: it is long. I watched it in chunks. It is not GoT.
